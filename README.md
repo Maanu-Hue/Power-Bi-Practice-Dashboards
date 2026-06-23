@@ -9,6 +9,8 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ### 1. Amazon India Sales Dashboard
 ![Amazon Sales Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-08%20223015.png)
 - **Files:** `AMAZON SALES ANALYTICS DASHBOARD.pbix`, `Amazonsales.xlsx`
+- [Amazon Sales Analytics Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/AMAZON%20SALES%20ANALYTICS%20DASHBOARD.pbix)
+- [Dataset](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Amazonsales.xlsx)
 - **Tools:** Power BI, Excel
 - Explores sales performance, product categories, and revenue trends across Amazon India data.
 
@@ -17,6 +19,8 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ### 2. IBM HR Attrition Dashboard
 ![IBM HR Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-10%20212032.png)
 - **Files:** `IBM HR Analysis.pbix`, `IBM HR Employee.xlsx`
+- [HR Attrition Analytics Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/IBM%20HR%20Analysis.pbix)
+- [Dataset](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/IBM%20HR%20Employee.xlsx)
 - **Tools:** Power BI, Excel
 - Analyzes employee attrition patterns using the IBM HR dataset. Covers department-wise attrition, age groups, job satisfaction, and KPIs.
 
@@ -25,6 +29,8 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ### 3. Sales Data Dashboard
 ![Sales Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-06%20222736.png)
 - **Files:** `Sales_Data_Dashboard.pbix`, `Sales_Analysis.xlsx`
+- [Sales Data Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Sales_Data_Dashboard.pbix)
+- [Dataset](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Sales_Analysis.xlsx)
 - **Tools:** Power BI, Excel
 - Visualizes sales trends, regional performance, and revenue metrics from a retail sales dataset.
 
@@ -33,6 +39,8 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ### 4. Hotel Booking Dashboard
 ![Hotel Booking Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-14%20105833.png)
 - **File:** `hotel_booking.pbix`
+- [Hotel Booking Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/hotel_booking.pbix)
+- [Dataset](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Hotel%20booking.xlsx)
 - **Tools:** Power BI
 - Built on a 119K-record hotel booking dataset. Covers booking trends, cancellation rates, lead time analysis, and customer segmentation.
 
@@ -41,6 +49,8 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ### 5. Flights Airport Dashboard
 ![Flights Airport Dashboard](https://raw.githubusercontent.com/Maanu-Hue/Power-Bi-Practice-Dashboards/main/Screenshot%202026-06-22%20235024.png)
 - **File:** `flightsairport.pbix`
+- [Flight Delays Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/flightsairport.pbix)
+- [Dataset](https://www.kaggle.com/datasets/usdot/flight-delays)
 - **Tools:** Power BI
 - Analyzes flight and airport data including route performance, delay patterns, and airport-level insights.
 
