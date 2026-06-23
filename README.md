@@ -15,7 +15,7 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ---
 
 ### 2. IBM HR Attrition Dashboard
-![IBM HR Dashboard](https://raw.githubusercontent.com/Maanu-Hue/Power-Bi-Practice-Dashboards/main/Screenshot%202026-06-06%20222754.png)
+![IBM HR Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-10%20212032.png)
 - **Files:** `IBM HR Analysis.pbix`, `IBM HR Employee.xlsx`
 - **Tools:** Power BI, Excel
 - Analyzes employee attrition patterns using the IBM HR dataset. Covers department-wise attrition, age groups, job satisfaction, and KPIs.
@@ -23,7 +23,7 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ---
 
 ### 3. Sales Data Dashboard
-![Sales Dashboard](https://raw.githubusercontent.com/Maanu-Hue/Power-Bi-Practice-Dashboards/main/Screenshot%202026-06-06%20223051.png)
+![Sales Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-06%20222736.png)
 - **Files:** `Sales_Data_Dashboard.pbix`, `Sales_Analysis.xlsx`
 - **Tools:** Power BI, Excel
 - Visualizes sales trends, regional performance, and revenue metrics from a retail sales dataset.
@@ -31,7 +31,7 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ---
 
 ### 4. Hotel Booking Dashboard
-![Hotel Booking Dashboard](https://raw.githubusercontent.com/Maanu-Hue/Power-Bi-Practice-Dashboards/main/Screenshot%202026-06-08%20223015.png)
+![Hotel Booking Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-14%20105833.png)
 - **File:** `hotel_booking.pbix`
 - **Tools:** Power BI
 - Built on a 119K-record hotel booking dataset. Covers booking trends, cancellation rates, lead time analysis, and customer segmentation.
