@@ -7,7 +7,7 @@ A collection of Power BI practice dashboards showcasing data cleaning, visualiza
 ## Dashboards
 
 ### 1. Amazon India Sales Dashboard
-![Amazon Sales Dashboard](https://raw.githubusercontent.com/Maanu-Hue/Power-Bi-Practice-Dashboards/main/Screenshot%202026-06-06%20222736.png)
+![Amazon Sales Dashboard](https://github.com/Maanu-Hue/Power-Bi-Practice-Dashboards/blob/main/Screenshot%202026-06-08%20223015.png)
 - **Files:** `AMAZON SALES ANALYTICS DASHBOARD.pbix`, `Amazonsales.xlsx`
 - **Tools:** Power BI, Excel
 - Explores sales performance, product categories, and revenue trends across Amazon India data.
